@@ -16,7 +16,7 @@ Note that in this example an ``IdleSleeper`` is being used to simulate the async
 
 In the next exercise we are:
 
-- Fetching data from a public API (jsonPlaceHolder site)
+- Fetching data from a public API (jsonPlaceHolder site) thus implementing our own ``Publisher<T>``
 - Using the ``TranformProcessor<T, R>`` to actually deal with data.
 
 
